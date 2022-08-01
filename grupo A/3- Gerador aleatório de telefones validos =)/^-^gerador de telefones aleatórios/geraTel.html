@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+    <link rel="stylesheet" href="./geraTel.css">
+  
+    <title>geraTel</title>
+</head>
+<body>
+    
+
+
+    <main>
+
+        <div class="container">
+            <label>Digite quantos números de telefone deseja criar:</label>
+
+            <input type="number" placeholder="0" id="quant"/>
+
+        </br>
+            <label>Digite O DDD desejado:</label>
+            <input type="number" placeholder="0" id="ddd"/>
+
+
+        </br>
+            <button onClick="GerarTel()">Criar</button>
+            <textarea id="telefones" cols="30" rows="10"></textarea>
+        </div>
+
+
+    </main>
+</body>
+
+<script src="geraTel.js"> </script>
+</html>

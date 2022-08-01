@@ -1,0 +1,5 @@
+2- Crie uma fun��o para validar se um CPF � valido, 
+busque na internet quais s�o as regras para que um CPF seja valido
+
+A fun��o deve ser no mesmo modelo da fun��o anterior 
+ex: validarCPF(cpf) e retornar verdadeiro ou falso

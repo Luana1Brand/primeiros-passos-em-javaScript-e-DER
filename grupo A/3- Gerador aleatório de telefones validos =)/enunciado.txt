@@ -1,0 +1,3 @@
+3- Crie uma função que gere telefones aleatórios, a função deve receber como paramentro o numero ddd e a quantidade de telefones e deve ser retornar um vetor com números gerados
+
+EX: geraTelefones(19,3) e deve retornar ex: 19- 994544616 / 19 - 971353914 / 19 - 993387027

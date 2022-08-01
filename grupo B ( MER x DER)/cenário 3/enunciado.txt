@@ -1,0 +1,41 @@
+Conforme demonstrado na aula01 de banco de dados, 
+seguindo as regras representadas neste link: 
+
+https://github.com/wellifabio/senai2022/blob/master/2des/bcd/aula01/mer_der.png
+
+Desenvolva os seguintes cenários através do Diagramas de Entidades e Relacionamentos DER
+representando o nível de detalhe 1 com os atributos e cardinalidades:
+
+
+Cenário 3 – A escola XPTO Idiomas possui vários alunos matriculados em diversas turmas de
+idiomas e necessita armazenar os dados de seus cursos em um banco de dados, 
+os campos elencados são: 
+
+id_turma,
+
+ nome_curso, 
+
+idioma, num_sala,
+
+ horário_turma,
+
+ ra_aluno,
+
+ nome_aluno,
+
+
+data_matricula, 
+
+telefone_aluno, 
+
+data_nascimento.
+
+
+OBS: Os diagramas podem ser desenvolvidos utilizando a ferramenta draw.io ou outra que preferir
+devem ser exportados para imagem PNG ou PDF e postados em seus repositórios git. 
+
+Na próxima semana os professores verificarão farão a correção.
+
+Ao concluir esta atividade, para cada cenário elabore os formulários de cadastro de cada
+entidade/tabela utilizando HTML e CSS, somente as telas, os formulários não precisam ter a
+função de conexão com o banco de dados através do backEnd.

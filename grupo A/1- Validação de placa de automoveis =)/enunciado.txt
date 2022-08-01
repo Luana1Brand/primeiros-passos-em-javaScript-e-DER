@@ -1,0 +1,6 @@
+1-crie uma função que valide se um valor passado como parametro � uma placa de automo�l exvalidarPlaca(placa) a função deve retornar um valor boolean, "true" se for uma placa valida e " false" se n�o for valida.
+
+OBS: dev validar tanto as placas anticas ex: "ABC1212" como as novas "ABC1D12"
+
+
+
